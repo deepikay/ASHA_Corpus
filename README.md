@@ -1,4 +1,4 @@
-# ASHA_corpus
+# ASHA_Corpus
 The dataset contains multiple files corresponding to different resources of the training material for the ASHAs
 All the files are cleaned and tokenized
 
